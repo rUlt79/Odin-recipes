@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(175,175,175);    
+}
+
+h1, h3, div, ul {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(38,38,243);
+    color: rgb(255,255,255);
+}
+
+

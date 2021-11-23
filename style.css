@@ -1,0 +1,11 @@
+* {
+    text-align: center;
+    background-color: rgb(150,150,150);
+}
+
+h1 {
+    font-family: Verdana;
+    color: white;
+    background-color: rgb(38, 38, 243);
+    font-size: 40px;
+}
